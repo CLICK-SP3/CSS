@@ -55,7 +55,9 @@
 				padding: 0px;
 				clear: both;
 				}
-			h1	{color: blue;
+			h1	{
+				font-family: 'Molle', cursive;
+				color: blue;
 				font-size: 48pt;
 				text-align: center;
 				
